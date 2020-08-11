@@ -1,0 +1,42 @@
+### Data Files ###
+# To gather all extensions other than ipynb
+# ls * | grep -v ipynb | rev | cut -f1 -d '.' | rev | perl -pe 's/^/*./g' >> .gitignore
+*.delta
+*.fasta
+*.coords
+*.snps
+*.tsvls (*.Dockerfile
+*.delta
+*.fasta
+*.fasta
+*.orig
+*.fasta
+*.fasta
+*.coords
+*.delta
+*.snps
+*.tsv
+*.fasta
+*.pages
+*.fasta
+*.fasta
+*.fasta
+*.fasta
+*.fasta
+*.coords
+*.delta
+*.snps
+*.tsv
+*.tsv
+*.tsv
+*.numbers
+*.tsv
+*.xlsx
+*.fasta
+*.s_protein_seq
+*.fasta
+*.aln
+*.fasta
+*.tsv
+*.tsv
+*.txt
